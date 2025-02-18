@@ -16,3 +16,4 @@ Here is a small report generation exercise, where a similar report is created us
 - The `PROC EXPORT` procedure was used to export the results.
 
 ## Results
+![Salaries](https://github.com/VirkkunenJohanna/ExcelReport/blob/main/palkat.PNG?raw=true)
